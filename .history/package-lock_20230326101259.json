@@ -1,12 +1,12 @@
 {
-  "name": "qrcode-vue3-d18",
-  "version": "1.4.19",
+  "name": "qrcode-vue3",
+  "version": "1.4.17",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
-      "name": "qrcode-vue3-d18",
-      "version": "1.4.19",
+      "name": "qrcode-vue3",
+      "version": "1.4.17",
       "license": "MIT",
       "dependencies": {
         "@chenfengyuan/vue-qrcode": "^1.0.2",
