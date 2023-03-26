@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dq042000/qrcode-vue3-d18.git"
+    "url": "git+https://github.com/scholtz/qrcode-vue3.git"
   },
   "keywords": [
     "qr",
