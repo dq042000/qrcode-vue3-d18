@@ -18,18 +18,18 @@ export type Gradient = {
     color: string;
   }[];
 };
-
+export interface IQrOptionsType {
+  typeNumber?: TypeNumber;
+  mode?: Mode;
+  errorCorrectionLevel?: ErrorCorrectionLevel;
+}
 export type Options = {
   width?: number;
   height?: number;
   margin?: number;
   data?: string;
   image?: string;
-  qrOptions?: {
-    typeNumber?: TypeNumber;
-    mode?: Mode;
-    errorCorrectionLevel?: ErrorCorrectionLevel;
-  };
+  qrOptions?: IQrOptionsType;
   imageOptions?: {
     hideBackgroundDots?: boolean;
     imageSize?: number;

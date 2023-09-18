@@ -1,3 +1,2 @@
-import * as QRCodeVue3 from "./QRCodeVue3";
-
+import QRCodeVue3 from "./QRCodeVue3.vue";
 export default QRCodeVue3;
