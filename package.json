@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "braces": ">=3.0.3",
-    "esbuild": "^0.25.4",
+    "esbuild": ">=0.25.0",
     "qrcode-generator": "^1.4.4"
   },
   "devDependencies": {
